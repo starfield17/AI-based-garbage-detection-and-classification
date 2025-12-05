@@ -1,0 +1,10 @@
+path: /home/saki/Trash_classification/YOLO_model/train
+train: /home/saki/Trash_classification/YOLO_model/train/train/images
+val: /home/saki/Trash_classification/YOLO_model/train/val/images
+test: /home/saki/Trash_classification/YOLO_model/train/test/images
+names:
+  0: Kitchen Waste
+  1: Recyclable Waste
+  2: Hazardous Waste
+  3: Other Waste
+nc: 4
